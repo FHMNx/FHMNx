@@ -57,7 +57,6 @@
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" />
   <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="48" height="48" style="margin: 4px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="48" height="48" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" alt="VMware" width="48" height="48" style="margin: 4px;" />
 </p>
 
 
